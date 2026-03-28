@@ -1,4 +1,4 @@
-# win11-context-menu
+# Win11-Context-Menu
 
 A simple BAT script to toggle between the classic Windows 10-style context menu and the default Windows 11 context menu.
 
@@ -14,8 +14,8 @@ A simple BAT script to toggle between the classic Windows 10-style context menu 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/1cso/win11-context-menu.git
-cd win11-context-menu
+git clone https://github.com/1cso/Win11-Context-Menu.git
+cd Win11-Context-Menu
 ```
 
 2. Run the script as Administrator:
